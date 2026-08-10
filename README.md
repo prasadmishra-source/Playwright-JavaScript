@@ -3,7 +3,7 @@
 A complete journey into Playwright, practice journey without any ideal folder structure.
 Cover, all types of locators, selectors, methods, functions, events, UI elements, and sample of page object. 
 
-==========================================================================================
+====================================================
 
 **Preconditions:**
 
@@ -19,7 +19,7 @@ Browser binaries: Playwright will download supported browsers automatically, but
 
 VS Code or any IDE: Recommended for editing and running scripts
 
-==========================================================================================
+====================================================
 
 **Environment setup:**
 
@@ -29,7 +29,7 @@ Run npx playwright install to ensure browsers are installed
 
 Reporting tools: Allure, Monocart, or similar if you want enhanced test reports
 
-==========================================================================================
+====================================================
 
 **Tech Stack:**
 
@@ -37,7 +37,7 @@ Playwright
 Node.js
 Optional integrations: Allure, Monocrat, ReportPortal
 
-==========================================================================================
+====================================================
 
 **Getting Started:**
 
@@ -50,7 +50,7 @@ Optional integrations: Allure, Monocrat, ReportPortal
 4. View reports:
            npx playwright show-report
 
-==========================================================================================
+====================================================
 
 **License**
 This project is licensed under the Apache License -
@@ -58,7 +58,7 @@ you are free to use, modify, and distribute with proper credit.
 
 #### Some files may be marked as Restricted and are excluded from this license. ####
 
-==========================================================================================
+====================================================
 
 **Contributing**
 
@@ -72,13 +72,13 @@ Commit changes
 
 Open a Pull Request
 
-==========================================================================================
+====================================================
 
 **Tagline**
 
 ### "Playwright Playground: Test Everything Possible!” ###
 
-==========================================================================================
+====================================================
 
 
 
