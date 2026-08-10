@@ -42,7 +42,7 @@ Optional integrations: Allure, Monocrat, ReportPortal
 **Getting Started:**
 
 1. Clone the repo:
-           git clone [https://github.com/<your-username>/<repo-name>.git](https://github.com/prasadmishra-source/Playwright-JavaScript.git)
+           git clone [https://github.com/prasadmishra-source/Playwright-JavaScript.git]
 2. Install dependencies:
            npm install
 3. Run tests:
